@@ -1,25 +1,25 @@
 ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://t.me/Alijon_Abduxamitov">
-  <img align="left" alt="Alijon Abduxamitov | Telegram" width="22px" src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" />
+<a href="https://t.me/Farxod_4">
+  <img align="left" alt="Farhod Qarshiyev | Telegram" width="22px" src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" />
 </a>
-<a href="https://www.instagram.com/alijon_abduxamitov">
-  <img align="left" alt="Alijon Abduxamitov | Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" />
+<a href="https://www.instagram.com/farhod_oooo">
+  <img align="left" alt="Farhod Qarshiyev | Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" />
 </a>
-<a href="https://www.facebook.com/alijon.abduhamitov.5">
-  <img align="left" alt="Alijon Abduxamitov | Facebook" width="22px" src="https://cdn-icons-png.flaticon.com/512/733/733547.png" />
+<a href="https://www.facebook.com/Farxod_4">
+  <img align="left" alt="Farhod Qarshiyev | Facebook" width="22px" src="https://cdn-icons-png.flaticon.com/512/733/733547.png" />
 </a>
-<a href="https://www.linkedin.com/in/alijon-abduxamitov-27023720a">
-  <img align="left" alt="Alijon Abduxamitov | LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+<a href="https://www.linkedin.com/in/farhod-qarshiyev-501900231/">
+  <img align="left" alt="Farhod Qarshiyevv | LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://medium.com/@alijonabduxamitov007">
-  <img align="left" alt="Alijon Abduxamitov | Medium" width="22px" src="https://bancambios.exchange/images/SocialMediaIcons/mediumIcon.png" />
+<a href="https://medium.com/@Farhod">
+  <img align="left" alt="Farhod Qarshiyev | Medium" width="22px" src="https://bancambios.exchange/images/SocialMediaIcons/mediumIcon.png" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=alijonbek007.alijonbek007)
 
 <br />
 
-Hi, I'm Alijon Abduxamitov, a passionate self-taught full stack web developer and a freelance software engineer from Uzbekistan. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+Hi, I'm Farhod Qarshiyev, a passionate self-taught full stack web developer and a freelance software engineer from Uzbekistan.  I take great care in the experience, architecture, and code quality of the things I build.
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
