@@ -1,7 +1,3 @@
-<p>
-    <a href="https://uwussi.moe"><img src="./assets/Welcome.png" alt="Welcome Immage"></a>
-</p>
-
 <p align="center">
     <h1 align="center">Trophies</h1>
 </p>
