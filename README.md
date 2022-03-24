@@ -59,6 +59,3 @@ NodeJs          9 mins      ▒░░░░░░░░░░░░░░░░�
 <!-- TODO-IST:END -->
 
 
-📈 my github stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=alijonbek007&show_icons=true&theme=gotham" alt="alijonbek007" />
