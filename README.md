@@ -11,9 +11,7 @@
 <a href="https://www.linkedin.com/in/farhod-qarshiyev-501900231/">
   <img align="left" alt="Farhod Qarshiyevv | LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://medium.com/@Farhod">
-  <img align="left" alt="Farhod Qarshiyev | Medium" width="22px" src="https://bancambios.exchange/images/SocialMediaIcons/mediumIcon.png" />
-</a>
+
 
 ![](https://visitor-badge.glitch.me/badge?page_id=alijonbek007.alijonbek007)
 
